@@ -1,0 +1,54 @@
+Organic Search,
+20161117,
+"{
+	""browser"": ""Chrome"", 
+	""browserVersion"": ""not available in demo dataset"", 
+	""browserSize"": ""not available in demo dataset"", 
+	""operatingSystem"": ""Windows"", 
+	""operatingSystemVersion"": ""not available in demo dataset"", 
+	""isMobile"": false, 
+	""mobileDeviceBranding"": ""not available in demo dataset"", 
+	""mobileDeviceModel"": ""not available in demo dataset"", 
+	""mobileInputSelector"": ""not available in demo dataset"", 
+	""mobileDeviceInfo"": ""not available in demo dataset"", 
+	""mobileDeviceMarketingName"": ""not available in demo dataset"",
+	""flashVersion"": ""not available in demo dataset"", 
+	""language"": ""not available in demo dataset"", 
+	""screenColors"": ""not available in demo dataset"", 
+	""screenResolution"": ""not available in demo dataset"", 
+	""deviceCategory"": ""desktop"
+"}",
+2144486287008378314,
+"{
+	""continent"": ""Asia"", 
+	""subContinent"": ""Western Asia"", 
+	""country"": ""Israel"", 
+	""region"": ""not available in demo dataset"", 
+	""metro"": ""not available in demo dataset"", 
+	""city"": ""not available in demo dataset"", 
+	""cityId"": ""not available in demo dataset"", 
+	""networkDomain"": ""hotnet.net.il"", 
+	""latitude"": ""not available in demo dataset"", 
+	""longitude"": ""not available in demo dataset"", 
+	""networkLocation"": ""not available in demo dataset"
+"}",
+2144486287008378314_1479410981,
+Not Socially Engaged,
+"{
+	""visits"": ""1"", 
+	""hits"": ""3"", 
+	""pageviews"": ""3"", 
+	""newVisits"": ""1"
+"}",
+"{"
+	"campaign"": ""(not set)"", 
+	""source"": ""google"", 
+	""medium"": ""organic"", 
+	""keyword"": ""(not provided)"", 
+	""adwordsClickInfo"": {
+		""criteriaParameters"": ""not available in demo dataset""
+	}
+}",
+1479410981,
+1,
+1479410981
